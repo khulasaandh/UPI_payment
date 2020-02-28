@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">VPA payment</string>
+    <string name="amount">Amount</string>
+    <string name="upi_id">UPI ID</string>
+    <string name="name">Name</string>
+    <string name="ravi_kumar">Ravi Kumar</string>
+    <string name="ravikumar_okaxis">ravikumar@okaxis</string>
+    <string name="optional_note">Optional Note</string>
+    <string name="send_by_upi">send by upi</string>
+</resources>
